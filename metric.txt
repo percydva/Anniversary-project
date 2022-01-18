@@ -1,0 +1,9 @@
+total_score = isPrior (+1 if seafood/bbq, +0 o/w)
+            + isRec  (+1 if is recommended by Mark/Grey, +0 o/w)
+            + rating_score (+2 if in range [4.5, 5], +1 if in range [3.5, 4.5), +0 o/w)
+            + price_score (+2 if in range [2, 3], +1 if in range (3, 4], +0 o/w)
+            + distance_score (+2 if =< 10, +1 if in range (10, 15], +0 o/w)
+            + duration_score (+2 if < 20, +1 if in range (20, 30], +0 o/w)
+            + total_rating_score (+2 if >= 3000, +1 if in range [1000, 3000), +0 o/w)
+
+-> total_score in range [0, 12]
