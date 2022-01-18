@@ -1,5 +1,5 @@
 # Anniversary-project
-Using Data Science methods and techniques to construct a restaurant recommender in Vancouver for inexperience people in relationship for their anniversary.
+Using Data Science methods and techniques to construct a restaurant recommender in Vancouver for inexperienced people in relationship for their anniversary.
 
 
 
@@ -20,7 +20,7 @@ To replicate our results, the requirements Python packages are specified in requ
 (Optional) A virtual machine is highly recommended. Set up guidance:
 * With conda:
 ```bash
-conda create -n venv python=3.7
+conda create -n venv python=3.8.8
 ```
 ```bash
 conda activate venv
