@@ -8,7 +8,7 @@ Using Data Science methods and techniques to construct a restaurant recommender 
 Constructed model, implemented experiments, filtered data, handled visualization.
 
 * Maruku Nguyen:
-Modelized evaluation metric, collected data
+Modelized evaluation metric, collected data.
 
 
 ## Set up
