@@ -1,0 +1,16 @@
+notebook
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+pandas
+numpy
+matplotlib
+json
+seaborn
+sklearn
+requests
+googlemaps
+warnings
+urllib
+geopandas
+shapely
+missingno
