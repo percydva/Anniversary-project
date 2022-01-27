@@ -1,29 +1,29 @@
-name,type,isRec,address,location,price_score,rating_score,total_rating_number,distance_from_home,duration_from_home,isPrior,total_score
-Joe Fortes Seafood & Chop House,Seafood,0,"777 Thurlow St, Vancouver, BC V6E 3V5, Canada","{'lat': 49.2849486, 'lng': -123.1245531}",3,4.5,4802,14.285,28.15,True,9
-Atlas Steak + Fish,Seafood,0,"4331 Dominion St, Burnaby, BC V5G 1C7, Canada","{'lat': 49.2566565, 'lng': -123.0069826}",3,4.4,912,7.441,12.333333333333334,True,8
-Na-Re Korean Kitchen,BBQ,0,"7413 Edmonds St, Burnaby, BC V3N 1B1, Canada","{'lat': 49.22031680000001, 'lng': -122.9484158}",0,4.7,246,8.303,14.2,True,7
-Pink Peppercorn Seafood House,Seafood,0,"1485 Kingsway, Vancouver, BC V5N 2R6, Canada","{'lat': 49.249391, 'lng': -123.073637}",3,4.6,462,13.582,20.916666666666668,True,7
-Harbour Oyster + Bar,Seafood,0,"1408 Commercial Dr, Vancouver, BC V5L 3X9, Canada","{'lat': 49.2719101, 'lng': -123.0693783}",0,4.5,476,9.513,17.616666666666667,True,7
-Chosun Korean BBQ,BBQ,0,"3486 Kingsway, Vancouver, BC V5R 5L6, Canada","{'lat': 49.2317873, 'lng': -123.0304338}",2,4,1379,12.417,19.05,True,7
-The Captain's Boil,Seafood,0,"3309 Kingsway, Vancouver, BC V5R 5K6, Canada","{'lat': 49.2341566, 'lng': -123.0352986}",2,3.9,1052,12.205,18.333333333333332,True,7
-Miku Vancouver,Sushi,0,"200 Granville St #70, Vancouver, BC V6C 1S4, Canada","{'lat': 49.2869066, 'lng': -123.1127618}",4,4.5,5119,12.973,26.966666666666665,False,6
-Gyu-Kaku Japanese BBQ,BBQ,0,"888 Nelson St g3, Vancouver, BC V6Z 2H1, Canada","{'lat': 49.2800585, 'lng': -123.1252308}",2,4.5,2534,14.468,30.1,True,6
-The Sandbar Seafood Restaurant,Seafood,0,"1535 Johnston Street, Creekhouse #102, Vancouver, BC V6H 3R9, Canada","{'lat': 49.2715205, 'lng': -123.1341702}",3,4.4,3076,15.527,30.883333333333333,True,6
-Kook Korean BBQ Restaurant,BBQ,0,"2800 E 1st Ave #211A, Vancouver, BC V5M 4N9, Canada","{'lat': 49.268772, 'lng': -123.0458568}",0,4.4,653,7.751,14.45,True,6
-Rodney's Oyster House,Seafood,0,"52 Powell St, Vancouver, BC V6A 1E7, Canada","{'lat': 49.2831389, 'lng': -123.1029806}",2,4.3,911,11.983,22.716666666666665,True,6
-Blue Water Cafe,Seafood,0,"1095 Hamilton St, Vancouver, BC V6B 5T4, Canada","{'lat': 49.276155, 'lng': -123.1211291}",4,4.7,2228,13.994,28.083333333333332,True,5
-The Flying Pig Gastown,Canadian,0,"102 Water St, Vancouver, BC V6B 1B2, Canada","{'lat': 49.2837739, 'lng': -123.1067002}",2,4.2,2532,12.247,24.1,False,5
-Glowbal,Canadian,0,"590 W Georgia St, Vancouver, BC V6E 1A3, Canada","{'lat': 49.28153140000001, 'lng': -123.1173984}",3,4.1,2269,14.174,27.583333333333332,False,5
-Coast Capital,Seafood,0,"4820 Kingsway Unit 250, Burnaby, BC V5H 4P1, Canada","{'lat': 49.227396, 'lng': -123.00001}",0,2.5,38,8.753,15.8,True,5
-Raisu,Japanese,0,"2340 W 4th Ave, Vancouver, BC V6K 1P1, Canada","{'lat': 49.2680595, 'lng': -123.1583241}",3,4.5,1834,16.309,32.28333333333333,False,4
-Boulevard Kitchen & Oyster Bar,Seafood,0,"845 Burrard St, Vancouver, BC V6Z 2K6, Canada","{'lat': 49.2830694, 'lng': -123.1239085}",4,4.4,955,14.282,28.683333333333334,True,4
-Ancora Waterfront Dining and Patio - False Creek,Seafood,0,"1600 Howe St #2, Vancouver, BC V6Z 2L9, Canada","{'lat': 49.2738285, 'lng': -123.1325499}",4,4.3,912,14.736,29.633333333333333,True,4
-Sushi Bar Maumi,Sushi,0,"1226 Bute St, Vancouver, BC V6E 1Z8, Canada","{'lat': 49.2813645, 'lng': -123.1336464}",3,4.4,395,15.414,31.666666666666668,False,3
-Saku,Cutlet,0,"1588 Robson St, Vancouver, BC V6G 2G5, Canada","{'lat': 49.289254, 'lng': -123.1323403}",2,4.4,983,15.073,31.2,False,3
-Masayoshi,Sushi,0,"4376 Fraser St, Vancouver, BC V5V 4G3, Canada","{'lat': 49.2458244, 'lng': -123.089937}",0,4.4,303,13.054,25.416666666666668,False,3
-Black+Blue,Steak,0,"1032 Alberni St, Vancouver, BC V6E 1A3, Canada","{'lat': 49.2845378, 'lng': -123.1228449}",4,4.3,2985,14.156,27.95,False,3
-Hydra Estiatorio,Mediterranean,0,"475 Howe St, Vancouver, BC V6B 2B3, Canada","{'lat': 49.2856712, 'lng': -123.1160583}",0,4.3,412,12.659,28.066666666666666,False,3
-Mott 32 Vancouver,Chinese,0,"1161 W Georgia St, Vancouver, BC V6E 0C6, Canada","{'lat': 49.2868595, 'lng': -123.1245356}",4,4,382,14.295,27.883333333333333,False,3
-Jingle Bao,Fusion,0,"774 Denman St, Vancouver, BC V6G 1C9, Canada","{'lat': 49.29160659999999, 'lng': -123.1349155}",0,4.3,308,28.353,28.65,False,2
-iDen & Quan Ju De Beijing Duck House (全聚德),Chinese,0,"2808 Cambie St, Vancouver, BC V5Z 2V5, Canada","{'lat': 49.2601395, 'lng': -123.1147488}",0,4,627,15.259,25.583333333333332,False,2
-Shin Ka Gyuu 辛火牛,Japanese,0,"1428 W Broadway, Vancouver, BC V6H 1H4, Canada","{'lat': 49.2633862, 'lng': -123.1370027}",0,3.7,658,17.222,29.883333333333333,False,2
+name,type,isRec,address,lat,lng,price_score,rating_score,total_rating_number,distance_from_home,duration_from_home,isPrior,total_score
+Joe Fortes Seafood & Chop House,Seafood,0,"777 Thurlow St, Vancouver, BC V6E 3V5, Canada",49.2849486,-123.1245531,3,4.5,4818,14.285,28.15,True,9
+Atlas Steak + Fish,Seafood,0,"4331 Dominion St, Burnaby, BC V5G 1C7, Canada",49.2566565,-123.0069826,3,4.4,916,7.441,12.333333333333334,True,8
+Na-Re Korean Kitchen,BBQ,0,"7413 Edmonds St, Burnaby, BC V3N 1B1, Canada",49.22031680000001,-122.9484158,0,4.7,247,8.303,14.2,True,7
+Pink Peppercorn Seafood House,Seafood,0,"1485 Kingsway, Vancouver, BC V5N 2R6, Canada",49.249391,-123.073637,3,4.6,466,13.582,20.916666666666668,True,7
+Harbour Oyster + Bar,Seafood,0,"1408 Commercial Dr, Vancouver, BC V5L 3X9, Canada",49.2719101,-123.0693783,0,4.5,477,9.513,17.616666666666667,True,7
+Chosun Korean BBQ,BBQ,0,"3486 Kingsway, Vancouver, BC V5R 5L6, Canada",49.2317873,-123.0304338,2,4,1380,12.417,19.05,True,7
+The Captain's Boil,Seafood,0,"3309 Kingsway, Vancouver, BC V5R 5K6, Canada",49.2341566,-123.0352986,2,3.9,1053,12.205,18.333333333333332,True,7
+Miku Vancouver,Sushi,0,"200 Granville St #70, Vancouver, BC V6C 1S4, Canada",49.2869066,-123.1127618,4,4.5,5134,12.973,26.966666666666665,False,6
+Gyu-Kaku Japanese BBQ,BBQ,0,"888 Nelson St g3, Vancouver, BC V6Z 2H1, Canada",49.2800585,-123.1252308,2,4.5,2537,14.468,30.1,True,6
+The Sandbar Seafood Restaurant,Seafood,0,"1535 Johnston Street, Creekhouse #102, Vancouver, BC V6H 3R9, Canada",49.2715205,-123.1341702,3,4.4,3078,15.527,30.883333333333333,True,6
+Kook Korean BBQ Restaurant,BBQ,0,"2800 E 1st Ave #211A, Vancouver, BC V5M 4N9, Canada",49.268772,-123.0458568,0,4.4,663,7.751,14.45,True,6
+Rodney's Oyster House,Seafood,0,"52 Powell St, Vancouver, BC V6A 1E7, Canada",49.2831389,-123.1029806,2,4.3,912,11.983,22.716666666666665,True,6
+Blue Water Cafe,Seafood,0,"1095 Hamilton St, Vancouver, BC V6B 5T4, Canada",49.276155,-123.1211291,4,4.7,2234,13.994,28.083333333333332,True,5
+Black+Blue,Steak,0,"1032 Alberni St, Vancouver, BC V6E 1A3, Canada",49.2845378,-123.1228449,4,4.3,3000,14.156,27.95,False,5
+The Flying Pig Gastown,Canadian,0,"102 Water St, Vancouver, BC V6B 1B2, Canada",49.2837739,-123.1067002,2,4.2,2536,12.247,24.1,False,5
+Glowbal,Canadian,0,"590 W Georgia St, Vancouver, BC V6E 1A3, Canada",49.28153140000001,-123.1173984,3,4.1,2282,14.174,27.583333333333332,False,5
+Coast Capital,Seafood,0,"4820 Kingsway Unit 250, Burnaby, BC V5H 4P1, Canada",49.227396,-123.00001,0,2.5,38,8.751,15.783333333333333,True,5
+Raisu,Japanese,0,"2340 W 4th Ave, Vancouver, BC V6K 1P1, Canada",49.2680595,-123.1583241,3,4.5,1842,16.309,32.36666666666667,False,4
+Boulevard Kitchen & Oyster Bar,Seafood,0,"845 Burrard St, Vancouver, BC V6Z 2K6, Canada",49.2830694,-123.1239085,4,4.4,960,14.282,28.683333333333334,True,4
+Ancora Waterfront Dining and Patio - False Creek,Seafood,0,"1600 Howe St #2, Vancouver, BC V6Z 2L9, Canada",49.2738285,-123.1325499,4,4.3,914,14.736,29.633333333333333,True,4
+Sushi Bar Maumi,Sushi,0,"1226 Bute St, Vancouver, BC V6E 1Z8, Canada",49.2813645,-123.1336464,3,4.4,396,15.415,31.666666666666668,False,3
+Saku,Cutlet,0,"1588 Robson St, Vancouver, BC V6G 2G5, Canada",49.289254,-123.1323403,2,4.4,987,15.073,31.2,False,3
+Hydra Estiatorio,Mediterranean,0,"475 Howe St, Vancouver, BC V6B 2B3, Canada",49.2856712,-123.1160583,0,4.3,418,12.659,28.066666666666666,False,3
+Masayoshi,Sushi,0,"4376 Fraser St, Vancouver, BC V5V 4G3, Canada",49.2458244,-123.089937,0,4.3,304,13.054,25.416666666666668,False,3
+Mott 32 Vancouver,Chinese,0,"1161 W Georgia St, Vancouver, BC V6E 0C6, Canada",49.2868595,-123.1245356,4,4,382,14.295,27.883333333333333,False,3
+Jingle Bao,Fusion,0,"774 Denman St, Vancouver, BC V6G 1C9, Canada",49.29160659999999,-123.1349155,0,4.3,309,28.351,28.65,False,2
+iDen & Quan Ju De Beijing Duck House (全聚德),Chinese,0,"2808 Cambie St, Vancouver, BC V5Z 2V5, Canada",49.2601395,-123.1147488,0,4,628,15.259,25.6,False,2
+Shin Ka Gyuu 辛火牛,Japanese,0,"1428 W Broadway, Vancouver, BC V6H 1H4, Canada",49.2633862,-123.1370027,0,3.7,660,17.222,29.883333333333333,False,2
